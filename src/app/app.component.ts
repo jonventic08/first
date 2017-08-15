@@ -7,5 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Jon Claude App';
- age = 18;
+  age = 18;
+  
 }
